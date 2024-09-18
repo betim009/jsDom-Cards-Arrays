@@ -1,0 +1,13 @@
+.div-planos {
+    background-color: #ededed;
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    padding: 10px;
+}
+
+.div-plano {
+    width: 200px;
+    background-color: white;
+    text-align: center;
+}
